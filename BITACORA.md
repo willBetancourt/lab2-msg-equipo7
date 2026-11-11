@@ -5,15 +5,14 @@ Ingeniería de Software I (603501) — Universidad de los Llanos
 
 ## Equipo
 
-| Rol | Nombre | Usuario de GitHub |
-|---|---|---|
-| Integrador | _(completar)_ | willBetancourt |
-| Formato y estilo | _(completar)_ | _(completar)_ |
-| Vista | _(completar)_ | _(completar)_ |
-| Controlador | _(completar)_ | _(completar)_ |
+| Rol | Nombre | Código estudiantil | Usuario de GitHub | Su PR lo revisa |
+|---|---|---|---|---|
+| Integrador | Brayan Zuluaga Torres | 160005243 | B5F6Z7 | Controlador |
+| Formato y estilo | Javier Vesga | 160005040 | JS150 | Vista |
+| Vista | Camilo Rico | 160005131 | Camilo-Rico-Acosta | Formato y estilo |
+| Controlador | Willy Betancourt | 160005028 | willBetancourt | Integrador |
 
-Rotación respecto al Laboratorio 1: Hipotecas → Integrador, Inversiones → Vista,
-Registro → Controlador, Integrador → Formato y estilo.
+Los roles rotaron respecto al Laboratorio 1 y el Integrador no es quien ya lo fue.
 
 ## Contrato
 
@@ -47,7 +46,8 @@ Un valor del contrato solo cambia si los cuatro lo acuerdan y lo corrigen en est
 | 3 | [#3](https://github.com/willBetancourt/lab2-msg-equipo7/pull/3) | `feature/view` | fusionado |
 | 4 | [#4](https://github.com/willBetancourt/lab2-msg-equipo7/pull/4) | `feature/controller` | fusionado |
 | 5 | [#5](https://github.com/willBetancourt/lab2-msg-equipo7/pull/5) | `feature/app` | fusionado |
-| 6 | [#6](https://github.com/willBetancourt/lab2-msg-equipo7/pull/6) | `docs/bitacora` | este PR |
+| 6 | [#6](https://github.com/willBetancourt/lab2-msg-equipo7/pull/6) | `docs/bitacora` | fusionado |
+| 7 | [#7](https://github.com/willBetancourt/lab2-msg-equipo7/pull/7) | `docs/equipo` | este PR: tabla del equipo |
 
 ## Parte C — Guion de aceptación
 
