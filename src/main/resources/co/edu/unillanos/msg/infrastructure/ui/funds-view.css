@@ -1,0 +1,8 @@
+.title {
+    -fx-font-size: 18px;
+}
+
+.total {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+}
